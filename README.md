@@ -1,4 +1,6 @@
-# Hi, I'm Parth Vijay :wave: :man_technologist:
+# About me
+
+## Aloha, I'm Parth Vijay :wave: :man_technologist:
 
 <img src="./assets/banner.jpg" alt="DevOps Engineer">
 
@@ -9,7 +11,7 @@
 
 I am a DevOps Cloud Engineer. Over the years, I have gained a wide-ranging set of skills, qualities and attributes that, I believe, make me a competent, supportive, professional and flexible DevOps Engineer. In addition to possessing solid technical knowledge capabilities, I am also someone who has excellent communication, collaboration, and decision-making skills.
 
-# Technical Skills:
+## Technical Skills:
 
 - Language: Python
 - Linux GNU Servers: Ubuntu, Red Hat Enterprise Linux, CentOS
@@ -24,16 +26,16 @@ I am a DevOps Cloud Engineer. Over the years, I have gained a wide-ranging set o
 
 In addition, I have also experience in learning and excelling at new technologies as needed. I have good communications skills and troubleshooting strength. I can work really well both as a team-player and as an individual.
 
-# Certification:
+## Certification:
 
 - Red Hat Certified System administrator
 - Red Hat Certified Engineer
 
-# Get in touch :coffee:: 
+## Get in touch :coffee:: 
 
 - [Medium](https://parth-24073.medium.com/)
 - [LinkedIn](https://www.linkedin.com/in/parth-vijay-131bb9189)
 
-# Ask Me:
+## Ask Me:
 
 -  💬 Ask me about anything [here](https://github.com/parth1625/parth1625/issues)
