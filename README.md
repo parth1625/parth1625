@@ -24,8 +24,6 @@ I am a DevOps Cloud Engineer. Over the years, I have gained a wide-ranging set o
 - Web Servers: Nginx, Apache2
 - Database Server: Mysql, PostgreSQL
 
-In addition, I have also experience in learning and excelling at new technologies as needed. I have good communications skills and troubleshooting strength. I can work really well both as a team-player and as an individual.
-
 ## Certification:
 
 - Red Hat Certified System administrator
