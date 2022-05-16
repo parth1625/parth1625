@@ -1,1 +1,1 @@
-# Hi, I'm Parth Vijay 👋🏾 :boy::computer:
+# Hi, I'm Parth Vijay :wave: :man_technologist:
