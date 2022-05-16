@@ -33,16 +33,18 @@ In addition, I have also experience in learning and excelling at new technologie
 
 ## Github Stats:
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=parth1625&show_icons=true&theme=gotham" alt="parth1625" />
+<a href="https://github.com/parth1625/parth1625">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth1625&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/parth1625/parth1625">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=parth1625&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=parth1625&show_icons=true&theme=gotham" alt="parth1625" /> -->
 
 ## Get in touch :coffee:: 
 
 - [Medium](https://parth-24073.medium.com/)
 - [LinkedIn](https://www.linkedin.com/in/parth-vijay-131bb9189)
-
-<!-- ## My GitHub contribution:
-
-[![GitHub Game of Life](https://github4life.herokuapp.com/parth1625.gif?z=6)](https://github4life.herokuapp.com/parth1625) -->
 
 ## Ask Me:
 
