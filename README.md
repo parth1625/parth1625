@@ -31,6 +31,10 @@ In addition, I have also experience in learning and excelling at new technologie
 - Red Hat Certified System administrator
 - Red Hat Certified Engineer
 
+## Github Stast:
+
+![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth1625&theme=synthwave&show_icons=true&count_private=true “Parth's GutHub Stats”)
+
 ## Get in touch :coffee:: 
 
 - [Medium](https://parth-24073.medium.com/)
