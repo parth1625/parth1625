@@ -1,6 +1,6 @@
 # Hi, I'm Parth Vijay :wave: :man_technologist:
 
-<img src="./assets/banner.png" alt="DevOps Engineer">
+<img src="./assets/banner.jpg" alt="DevOps Engineer">
 
 <p align="center"> 
   Visitor count<br>
