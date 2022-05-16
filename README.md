@@ -29,10 +29,10 @@ In addition, I have also experience in learning and excelling at new technologie
 - Red Hat Certified System administrator
 - Red Hat Certified Engineer
 
-# Find me arounf the web:
+# Get in touch :coffee:: 
 
-- LinkedIn: https://www.linkedin.com/in/parth-vijay-131bb9189/
-- Medium: https://parth-24073.medium.com/
+- [Medium](https://parth-24073.medium.com/)
+- [LinkedIn](https://www.linkedin.com/in/parth-vijay-131bb9189)
 
 # Ask Me:
 
