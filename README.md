@@ -13,7 +13,7 @@ I am a DevOps Cloud Engineer. Over the years, I have gained a wide-ranging set o
 
 ## Tech Stack:
 
-- Language: Python
+<!-- - Language: Python
 - Linux GNU Servers: Ubuntu, Red Hat Enterprise Linux, CentOS
 - Configuration Management Tools: Ansible
 - Containerization Tools: Docker, Kubernetes
@@ -22,7 +22,10 @@ I am a DevOps Cloud Engineer. Over the years, I have gained a wide-ranging set o
 - Cloud Computing: AWS, Google Cloud Platform, Azure, Digital Ocean, Heroku
 - Monitoring Tools: ELK stack, Prometheus & Grafana
 - Web Servers: Nginx, Apache2
-- Database Server: Mysql, PostgreSQL
+- Database Server: Mysql, PostgreSQL -->
+<p>
+<img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+</p>
 
 ## Certification:
 
