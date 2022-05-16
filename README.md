@@ -2,10 +2,10 @@
 
 <img src="./assets/devops.jpg" alt="DevOps Engineer">
 
-<p align="center"> 
+<!-- <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/parth1625/count.svg" />
-</p>
+</p> -->
 
 I am a DevOps Cloud Engineer. Over the years, I have gained a wide-ranging set of skills, qualities and attributes that, I believe, make me a competent, supportive, professional and flexible DevOps Engineer. In addition to possessing solid technical knowledge capabilities, I am also someone who has excellent communication, collaboration, and decision-making skills.
 
