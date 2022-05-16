@@ -36,9 +36,9 @@ In addition, I have also experience in learning and excelling at new technologie
 - [Medium](https://parth-24073.medium.com/)
 - [LinkedIn](https://www.linkedin.com/in/parth-vijay-131bb9189)
 
-## My GitHub contribution:
+<!-- ## My GitHub contribution:
 
-[![GitHub Game of Life](https://github4life.herokuapp.com/parth1625.gif?z=6)](https://github4life.herokuapp.com/parth1625)
+[![GitHub Game of Life](https://github4life.herokuapp.com/parth1625.gif?z=6)](https://github4life.herokuapp.com/parth1625) -->
 
 ## Ask Me:
 
