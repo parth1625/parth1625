@@ -1,6 +1,11 @@
-
-
 # Hi, I'm Parth Vijay :wave: :man_technologist:
+
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/parth1625/count.svg" />
+</p>
 
 I am a DevOps Cloud Engineer. Over the years, I have gained a wide-ranging set of skills, qualities and attributes that, I believe, make me a competent, supportive, professional and flexible DevOps Engineer. In addition to possessing solid technical knowledge capabilities, I am also someone who has excellent communication, collaboration, and decision-making skills.
 
@@ -32,5 +37,3 @@ In addition, I have also experience in learning and excelling at new technologie
 # Ask Me:
 
 -  💬 Ask me about anything [here](https://github.com/parth1625/parth1625/issues)
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
