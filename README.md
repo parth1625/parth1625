@@ -1,6 +1,6 @@
 # Hi, I'm Parth Vijay :wave: :man_technologist:
 
-<img src="https://raw.githubusercontent.com/parth1625/parth1625/blob/master/assets/banner.png" alt="DevOps Engineer">
+<img src="./assets/banner.png" alt="DevOps Engineer">
 
 <p align="center"> 
   Visitor count<br>
