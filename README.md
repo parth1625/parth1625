@@ -55,8 +55,8 @@ I am a DevOps Cloud Engineer. Over the years, I have gained a wide-ranging set o
 
 ## Certification:
 
-- Red Hat Certified System administrator
-- Red Hat Certified Engineer
+<h4>- Red Hat Certified System administrator</h4>
+<h4>- Red Hat Certified Engineer</h4>
 
 ## Github Stats:
 
