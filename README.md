@@ -60,11 +60,11 @@ I am a DevOps Cloud Engineer. Over the years, I have gained a wide-ranging set o
 
 ## Latest Blogs:
 
-- .[Deploy Angular App to Apache Server].(https://parth-24073.medium.com/deploy-angular-app-to-apache-server-b7d87dab96df)
-- .[Deploying Django App inside Docker container running Apache2 with PostgreSQL, Pgadmin and Elasticsearch].(https://parth-24073.medium.com/deploying-django-app-inside-docker-container-running-apache2-with-pgadmin-and-elasticsearch-e7cea4735016)
-- .[ElasticSearch integration with Logstash and Kibana to monitor Apache2 logs].(https://parth-24073.medium.com/elasticsearch-integration-with-logstash-and-kibana-to-monitor-apache2-logs-b1f67570c357)
-- .[Configure CI/CD Pipeline in GitLab and deployment to server via SSH].(https://parth-24073.medium.com/configure-ci-cd-pipeline-in-gitlab-and-deployment-to-server-via-ssh-b264a7f78db2)
-- .[CI/CD using GitHub Actions].(https://parth-24073.medium.com/ci-cd-using-github-actions-f34bd6077e00)
+- [Deploy Angular App to Apache Server](https://parth-24073.medium.com/deploy-angular-app-to-apache-server-b7d87dab96df)
+- [Deploying Django App inside Docker container running Apache2 with PostgreSQL, Pgadmin and Elasticsearch](https://parth-24073.medium.com/deploying-django-app-inside-docker-container-running-apache2-with-pgadmin-and-elasticsearch-e7cea4735016)
+- [ElasticSearch integration with Logstash and Kibana to monitor Apache2 logs](https://parth-24073.medium.com/elasticsearch-integration-with-logstash-and-kibana-to-monitor-apache2-logs-b1f67570c357)
+- [Configure CI/CD Pipeline in GitLab and deployment to server via SSH](https://parth-24073.medium.com/configure-ci-cd-pipeline-in-gitlab-and-deployment-to-server-via-ssh-b264a7f78db2)
+- [CI/CD using GitHub Actions](https://parth-24073.medium.com/ci-cd-using-github-actions-f34bd6077e00)
 
 ## Github Stats:
 
