@@ -24,7 +24,7 @@ I am a DevOps Cloud Engineer. Over the years, I have gained a wide-ranging set o
 - Web Servers: Nginx, Apache2
 - Database Server: Mysql, PostgreSQL -->
 <p>
-<h3>Language:</h3> <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<h4>Language:</h4><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </p>
 
 ## Certification:
